@@ -23,6 +23,7 @@ these ones
 - Find the % distribution of apps by review sentiment (Pie chart with positive, neutral , negative)
 
 - From the column Sentiment use only the apps that have positive reviews. Find what % of them are paid and what are free. From the paid ones find the most prevalent category (Game, Business...). Are they similar to the categories from the previous question 2 weeks ago?
+- ----------------------------
 
  - Spark task 1
 
