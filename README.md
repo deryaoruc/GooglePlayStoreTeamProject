@@ -25,13 +25,15 @@ these ones
 - From the column Sentiment use only the apps that have positive reviews. Find what % of them are paid and what are free. From the paid ones find the most prevalent category (Game, Business...). Are they similar to the categories from the previous question 2 weeks ago?
 - ----------------------------
 
- - Spark task 1
+ - Most Installed Apps with Spark
 
- - Spark task 2
+ - Highest Paid Categories with Spark
  - ------------------------------
 
   #### You can access and modify the code slides [here](https://www.canva.com/design/DAFXkTCiM54/SYfiQRMYpD9wfZ4ffcWbGg/edit?utm_content=DAFXkTCiM54&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
   #### You can access and modify the graph slides [here](https://www.canva.com/design/DAFUGaaISmc/X82SagjWBcxek7HtpUHIBw/edit?utm_content=DAFUGaaISmc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+#### You can access and modify the alternative graph slides [here](https://www.canva.com/design/DAFXrDzqg3U/z6fvN2K3SuhM8OJdncwz9Q/edit?utm_content=DAFXrDzqg3U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
   #### Please check the slides and jupyter notebook file and make up any missing
